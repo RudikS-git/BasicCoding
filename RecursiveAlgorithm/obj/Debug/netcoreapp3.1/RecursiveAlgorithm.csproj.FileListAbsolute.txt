@@ -1,0 +1,10 @@
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\bin\Debug\netcoreapp3.1\RecursiveAlgorithm.exe
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\bin\Debug\netcoreapp3.1\RecursiveAlgorithm.deps.json
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\bin\Debug\netcoreapp3.1\RecursiveAlgorithm.runtimeconfig.json
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\bin\Debug\netcoreapp3.1\RecursiveAlgorithm.runtimeconfig.dev.json
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\bin\Debug\netcoreapp3.1\RecursiveAlgorithm.dll
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\bin\Debug\netcoreapp3.1\RecursiveAlgorithm.pdb
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\obj\Debug\netcoreapp3.1\RecursiveAlgorithm.AssemblyInfoInputs.cache
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\obj\Debug\netcoreapp3.1\RecursiveAlgorithm.AssemblyInfo.cs
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\obj\Debug\netcoreapp3.1\RecursiveAlgorithm.dll
+C:\Users\rudik\source\repos\BasicCoding\RecursiveAlgorithm\obj\Debug\netcoreapp3.1\RecursiveAlgorithm.pdb

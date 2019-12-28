@@ -1,0 +1,10 @@
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BinaryProcessing.exe
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BinaryProcessing.deps.json
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BinaryProcessing.runtimeconfig.json
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BinaryProcessing.runtimeconfig.dev.json
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BinaryProcessing.dll
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BinaryProcessing.pdb
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BinaryProcessing.AssemblyInfoInputs.cache
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BinaryProcessing.AssemblyInfo.cs
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BinaryProcessing.dll
+C:\Users\rudik\source\repos\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BinaryProcessing.pdb
