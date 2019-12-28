@@ -29,7 +29,6 @@ namespace SearchIndexElement
 
                 if (sumLeft == sumRight) return i;
             }
-
             return -1;
         }
     }
