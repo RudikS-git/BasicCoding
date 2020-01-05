@@ -1,0 +1,10 @@
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\bin\Debug\netstandard2.0\SolutionsNew.deps.json
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\bin\Debug\netstandard2.0\SolutionsNew.dll
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\bin\Debug\netstandard2.0\SolutionsNew.pdb
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.AssemblyInfoInputs.cache
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.AssemblyInfo.cs
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.dll
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.pdb
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.Properties.Resources.resources
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.csproj.GenerateResource.cache
+C:\Users\rudik\source\repos\BasicCoding\SolutionsNew\obj\Debug\netstandard2.0\SolutionsNew.csprojAssemblyReference.cache
