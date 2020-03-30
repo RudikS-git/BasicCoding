@@ -4,6 +4,8 @@ namespace SolutionsTests
 {
     public class Tests
     {
+        // for distance learning ee.istu.ru
+
         [TestCase("AsdfeAd", "Assqaasssqs", ExpectedResult = "AsdfeAdqaaq")]
         public string StringConcatenation_Tests(string strFirst, string strSecond)
         {

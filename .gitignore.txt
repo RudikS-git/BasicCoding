@@ -1,3 +1,4 @@
 TestResults
 .vs.txt
+.vs
 desktop.ini
